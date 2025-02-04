@@ -45,6 +45,8 @@
 - Разработать собственное мобильное приложение
 - Внести вклад в открытые проекты на GitHub
 
+<p align="center"> <a href="https://icelink.uz"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="sukhrobnuraliev" /></a> </p>
+
 <!--## 📝 Блог и Статьи-->
 
 <!--- [Статья 1](https://dev.to/your-profile/article-1): Краткое описание статьи 1.-->
