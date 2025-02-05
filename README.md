@@ -16,6 +16,8 @@
 ## Js - Ts
 **Я просто влюблен в JavaScript, да язык не идеален к большому сожалению и имеет недостатки ,но очень крутой**
 
+<p align="center"> <a href="https://icelink.uz"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="sukhrobnuraliev" /></a> </p>
+
 ## Frame Works
 **Js имеет огромное множество фреймворков и библиотек на все случае жизни**
 **React и  Next это мои любимые фреймворки(и библиотека)**
@@ -33,6 +35,12 @@
 - [Проект 2](https://github.com/IceLink1/real-time-chat): Очень крутой реал тайм чат
 - [Проект 3](https://github.com/IceLink1/paint): Просто среда для рисование
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## 🛠️ Мои Навыки
 
 - Языки программирования: JavaScript, Python, C/C++ 
@@ -45,7 +53,6 @@
 - Разработать собственное мобильное приложение
 - Внести вклад в открытые проекты на GitHub
 
-<p align="center"> <a href="https://icelink.uz"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="sukhrobnuraliev" /></a> </p>
 
 <!--## 📝 Блог и Статьи-->
 
