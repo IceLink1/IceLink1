@@ -1,9 +1,14 @@
 
 
-<p align="center">   <a href="" target="blank"><img src="https://avatars.githubusercontent.com/u/187767272?s=400&u=9438b8c343c0e0415ecb22330d631e27642d4b05&v=4" width="120" alt="" /></a> </p f
 # ICELINK
 **Здарова пацаны ! Меня зовут Салахиддин либо кратко Салах но и мне по душе icelink**
 и я разработчик программного обеспечения с страстью к созданию качественных и инновационных решений.
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0+%D0%BF%D0%B0%D1%86%D0%B0%D0%BD%D1%8B+%F0%9F%91%8B;I'm+ICELINK+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Open-Source+Enthusiast+%E2%AD%90" alt="Typing SVG" />
+  </a>
+</h1>
 
 ## 🛠️ Technologies & Tools
 
