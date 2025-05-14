@@ -71,10 +71,7 @@ var icelink = {
 **Node это среда выполнение который позволяет выполнят код вне браузера  что расширяет возможности этого языка в несколько раз. И Node так же имеет свои фреймворки и вот мои любимые :  Express , Nest**
 
 ## 📊 GitHub Stats
-
-
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=IceLink1&show_icons=true&theme=radical)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceLink1&theme=solarized_dark)
 
 ## 🚀 Проекты
 
