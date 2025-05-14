@@ -63,9 +63,19 @@
 
 ## 🛠️ Мои Навыки
 
-- Языки программирования: JavaScript, Python, C/C++ 
-- Фреймворки и библиотеки: React, Node.js, Next.js, Nest.js, express.js
-- Инструменты: Git, Docker, Github actions
+    Frontend Development: React, Next.js, Vue, Nuxt, TailwindCSS, SASS
+
+    Backend Development: Node.js, Express, NestJS, Fastify, REST/GraphQL APIs
+
+    Mobile Development: React Native, Flutter
+
+    Databases: MongoDB, PostgreSQL, MySQL, Redis
+
+    DevOps: Docker, Kubernetes, CI/CD, Nginx
+
+    Testing: Jest, Cypress, Testing Library
+
+    Tools: Git, Webpack, Vite, ESLint, Prettier
 
 ## 🎯 Цели на 2025 Год
 
