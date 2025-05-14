@@ -32,6 +32,32 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+
+const icelink = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "C++"],
+  askMeAbout: ["web dev", "tech", "app development", "open source"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Vue", "Nuxt"],
+      css: ["Tailwind", "SASS", "Styled Components", "Material UI","Hero UI"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express", "NestJS", "Fastify"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+    },
+    mobile: ["React Native", "Flutter"],
+    devOps: ["Docker", "Kubernetes", "AWS", "GCP", "Nginx"],
+    testing: ["Jest", "Cypress", "Mocha", "Testing Library"],
+    tools: ["Git", "Webpack", "Vite", "ESLint", "Prettier"]
+  },
+  architecture: ["FSD","Microservices", "Serverless", "SPA", "PWA"],
+  currentFocus: "Building scalable web applications",
+  funFact: "I can solve a Rubik's cube in under 2 minutes"
+};
+
+
+
 ## Js - Ts
 **Я просто влюблен в JavaScript, да язык не идеален к большому сожалению и имеет недостатки ,но очень крутой**
 
