@@ -32,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-
+```
 const icelink = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "C++"],
@@ -55,8 +55,7 @@ const icelink = {
   currentFocus: "Building scalable web applications",
   funFact: "I can solve a Rubik's cube in under 2 minutes"
 };
-
-
+```
 
 ## Js - Ts
 **Я просто влюблен в JavaScript, да язык не идеален к большому сожалению и имеет недостатки ,но очень крутой**
