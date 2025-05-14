@@ -33,7 +33,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ```
-const icelink = {
+var icelink = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "C++"],
   askMeAbout: ["web dev", "tech", "app development", "open source"],
