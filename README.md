@@ -66,7 +66,6 @@ var icelink = {
 **Js имеет огромное множество фреймворков и библиотек на все случае жизни**
 **React и  Next это мои любимые фреймворки(и библиотека)**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## Node Js
 **Node это среда выполнение который позволяет выполнят код вне браузера  что расширяет возможности этого языка в несколько раз. И Node так же имеет свои фреймворки и вот мои любимые :  Express , Nest**
