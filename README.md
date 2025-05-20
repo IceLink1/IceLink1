@@ -89,7 +89,6 @@ int main() {
 </picture>
 
 
-## 📝 Блог и Статьи
+## 📝 My blog
 
- [Статья 1](https://dev.to/your-profile/article-1): Краткое описание статьи 1.
-[Статья 2](https://dev.to/your-profile/article-2): Краткое описание статьи 2.
+- [History Java](https://dev.to/icelink/history-java-11gf): Java: From Acorns to Awesome (and How the Heck It Actually Works!).
