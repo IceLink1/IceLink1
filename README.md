@@ -1,60 +1,94 @@
-
-
 # ICELINK
-**Здарова пацаны ! Меня зовут Салахиддин либо кратко Салах но и мне по душе icelink**
-и я разработчик программного обеспечения с страстью к созданию качественных и инновационных решений.
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0+%D0%BF%D0%B0%D1%86%D0%B0%D0%BD%D1%8B+%F0%9F%91%8B;I'm+ICELINK+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Open-Source+Enthusiast+%E2%AD%90" alt="Typing SVG" />
-  </a>
-</h1>
+I write backend in Java, mostly with Spring Boot. I work with microservices, Kafka, PostgreSQL, Redis, all running in Kubernetes. I focus on performance optimization, remove bottlenecks, and speed up CI/CD pipelines. I implement caching, set up metrics, and fix tricky bugs. I care about clean, readable code and production stability. Not a fan of duct tape solutions — I prefer systems that run smoothly and make sense.
 
 ## 🛠️ Technologies & Tools
 
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Micrometer](https://img.shields.io/badge/-Micrometer-333333?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
+![REST](https://img.shields.io/badge/-REST-005571?style=for-the-badge)
+
+## JS Techs
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
 
 ```
-var icelink = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "C++"],
-  askMeAbout: ["web dev", "tech", "app development", "open source"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vue", "Nuxt"],
-      css: ["Tailwind", "SASS", "Styled Components", "Material UI","Hero UI"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express", "NestJS", "Fastify"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
-    },
-    mobile: ["React Native", "Flutter"],
-    devOps: ["Docker", "Kubernetes", "AWS", "GCP", "Nginx"],
-    testing: ["Jest", "Cypress", "Mocha", "Testing Library"],
-    tools: ["Git", "Webpack", "Vite", "ESLint", "Prettier"]
-  },
-  architecture: ["FSD","Microservices", "Serverless", "SPA", "PWA"],
-  currentFocus: "Building scalable web applications",
-  funFact: "I can solve a Rubik's cube in under 2 minutes"
+#include <iostream>
+#include <vector>
+#include <string>
+
+#include <ICELINK>
+
+struct Me : public ICELINK {
+    std::string pronouns = "he/him";
+    std::vector<std::string> code = {"Java", "TypeScript", "С++"};
+
+    std::vector<std::string> askMeAbout = {
+        "performance tuning",
+        "Kafka + microservices",
+        "CI/CD with GitLab",
+        "frontend just for fun"
+    };
+
+    std::vector<std::string> backEnd = {
+        "Spring Boot", "WebFlux when needed", "NestJS", "Node.js (for light stuff)"
+    };
+
+    std::vector<std::string> databases = {
+        "PostgreSQL", "Redis", "MongoDB if it fits"
+    };
+
+    std::vector<std::string> devOps = {
+        "Docker","Kubernetes", "GitLab CI", "Helm from time to time"
+    };
+
+    std::vector<std::string> frontEnd = {
+        "React", "Next.js", "Tailwind", "a bit of Figma"
+    };
+
+    std::vector<std::string> testing = {
+        "JUnit", "Mockito", "Jest.js", "bit of Cypress on UI"
+    };
+
+    std::vector<std::string> tools = {
+        "IntelliJ IDEA", "Git", "Postman", "Kafka Tool",
+    };
+
+    std::vector<std::string> architecture = {
+        "Microservices", "Event-driven", "REST/async", "scalable, not overcomplicated"
+    };
+
+    std::string currentFocus = "Writing fast and stable Java backends, keeping them clean and maintainable";
+    std::string funFact = "Sometimes frontend feels like vacation after debugging race conditions";
 };
+
+int main() {
+    Me me;
+    std::cout << "Hi, I write " << me.code[0] << " and build backends that survive peak loads." << std::endl;
+    return 0;
+}
+
 ```
 
 ## Js - Ts
