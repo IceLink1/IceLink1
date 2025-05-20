@@ -40,61 +40,33 @@ I write backend in Java, mostly with Spring Boot. I work with microservices, Kaf
 #include <vector>
 #include <string>
 
-#include <ICELINK>
-
-struct Me : public ICELINK {
+struct Me {
     std::string pronouns = "he/him";
-    std::vector<std::string> code = {"Java", "TypeScript", "С++"};
-
-    std::vector<std::string> askMeAbout = {
-        "performance tuning",
-        "Kafka + microservices",
-        "CI/CD with GitLab",
-        "frontend just for fun"
-    };
-
-    std::vector<std::string> backEnd = {
-        "Spring Boot", "WebFlux when needed", "NestJS", "Node.js (for light stuff)"
-    };
-
-    std::vector<std::string> databases = {
-        "PostgreSQL", "Redis", "MongoDB if it fits"
-    };
-
-    std::vector<std::string> devOps = {
-        "Docker","Kubernetes", "GitLab CI", "Helm from time to time"
-    };
-
-    std::vector<std::string> frontEnd = {
-        "React", "Next.js", "Tailwind", "a bit of Figma"
-    };
-
-    std::vector<std::string> testing = {
-        "JUnit", "Mockito", "Jest.js", "bit of Cypress on UI"
-    };
-
-    std::vector<std::string> tools = {
-        "IntelliJ IDEA", "Git", "Postman", "Kafka Tool",
-    };
-
-    std::vector<std::string> architecture = {
-        "Microservices", "Event-driven", "REST/async", "scalable, not overcomplicated"
-    };
-
-    std::string currentFocus = "Writing fast and stable Java backends, keeping them clean and maintainable";
-    std::string funFact = "Sometimes frontend feels like vacation after debugging race conditions";
+    std::vector<std::string> code = {"Java", "TypeScript", "C++ (only when I suffer)"};
+    std::vector<std::string> backEnd = {"Spring Boot", "WebFlux", "NestJS"};
+    std::vector<std::string> frontEnd = {"React", "Next.js", "Tailwind (and vibes)"};
+    std::vector<std::string> databases = {"PostgreSQL", "Redis (blazingly fast)", "MongoDB (if I have to)"};
+    std::vector<std::string> devOps = {"Docker", "Kubernetes (yes, I cry)", "GitLab CI"};
+    std::vector<std::string> tools = {"IntelliJ (dark mode only)", "Git", "Postman (for yelling at APIs)"};
+    std::string currentFocus = "Writing Java backends that don't randomly die at peak traffic";
+    std::string funFact = "Frontend feels like vacation after debugging memory leaks";
 };
 
 int main() {
     Me me;
-    std::cout << "Hi, I write " << me.code[0] << " and build backends that survive peak loads." << std::endl;
+    std::cout << "Hi, I'm a backend dev who occasionally touches frontend and always blames YAML." << std::endl;
+    std::cout << "Mostly writing " << me.code[0] << ", sometimes regretting with " << me.code[2] << "." << std::endl;
+    std::cout << "Deploying with " << me.devOps[1] << ", praying it scales." << std::endl;
+    std::cout << "Fun fact: " << me.funFact << std::endl;
     return 0;
 }
 
 ```
 
-## Js - Ts
-**Я просто влюблен в JavaScript, да язык не идеален к большому сожалению и имеет недостатки ,но очень крутой**
+## Facts
+**
+I’m really into computer science — love figuring out how things work under the hood. Programming’s kinda my thing: it’s fun, frustrating, and super satisfying when stuff finally works. I just enjoy building cool things and solving tricky problems with code
+**
 
 <p align="center"> <a href="https://icelink.uz"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="sukhrobnuraliev" /></a> </p>
 
