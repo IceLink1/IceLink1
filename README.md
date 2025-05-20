@@ -68,13 +68,10 @@ int main() {
 
 <p align="center"> <a href="https://icelink.uz"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="sukhrobnuraliev" /></a> </p>
 
-## Frame Works
-**Js имеет огромное множество фреймворков и библиотек на все случае жизни**
-**React и  Next это мои любимые фреймворки(и библиотека)**
 
+## Targets
 
-## Node Js
-**Node это среда выполнение который позволяет выполнят код вне браузера  что расширяет возможности этого языка в несколько раз. И Node так же имеет свои фреймворки и вот мои любимые :  Express , Nest**
+**Right now I’m learning C++ and Node.js. C++ is tough lots of weird syntax and manual stuff, but I kinda like the challenge. It’s teaching me to think more deeply about how things work under the hood. Node.js feels more familiar thanks to JavaScript, but I’m still wrapping my head around async stuff and how everything’s event-driven. Overall, it’s a mix of 'wtf is this' and 'ohhh now I get it' but I’m making steady progress.**
 
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceLink1&theme=solarized_dark)
@@ -91,29 +88,8 @@ int main() {
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-## 🛠️ Мои Навыки
 
-    Frontend Development: React, Next.js, Vue, Nuxt, TailwindCSS, SASS
+## 📝 Блог и Статьи
 
-    Backend Development: Node.js, Express, NestJS, Fastify, REST/GraphQL APIs
-
-    Mobile Development: React Native, Flutter
-
-    Databases: MongoDB, PostgreSQL, MySQL, Redis
-
-    DevOps: Docker, Kubernetes, CI/CD, Nginx
-
-    Testing: Jest, Cypress, Testing Library
-
-    Tools: Git, Webpack, Vite, ESLint, Prettier
-
-## 🎯 Цели на 2025 Год
-
-- Завершить пет проект icelink-questions
-- Разработать собственное мобильное приложение
-- Внести вклад в открытые проекты на GitHub
-
-<!--## 📝 Блог и Статьи-->
-
-<!--- [Статья 1](https://dev.to/your-profile/article-1): Краткое описание статьи 1.-->
-<!--- [Статья 2](https://dev.to/your-profile/article-2): Краткое описание статьи 2.-->
+ [Статья 1](https://dev.to/your-profile/article-1): Краткое описание статьи 1.
+[Статья 2](https://dev.to/your-profile/article-2): Краткое описание статьи 2.
