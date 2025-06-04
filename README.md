@@ -76,11 +76,11 @@ int main() {
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceLink1&theme=solarized_dark)
 
-;; ## 🚀 Проекты
+## 🚀 Проекты
 
-;; - [Проект 1](https://github.com/IceLink1/my-hamter): Это клоне игры Hammster
-;; - [Проект 2](https://github.com/IceLink1/real-time-chat): Очень крутой реал тайм чат
-;; - [Проект 3](https://github.com/IceLink1/paint): Просто среда для рисование
+- [Проект 1](https://github.com/IceLink1/my-hamter): Это клоне игры Hammster
+- [Проект 2](https://github.com/IceLink1/real-time-chat): Очень крутой реал тайм чат
+- [Проект 3](https://github.com/IceLink1/paint): Просто среда для рисование
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
