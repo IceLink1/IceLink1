@@ -27,31 +27,38 @@ Full-stack software engineer, and I write backend in Node.js with Ts, NestJS, Pr
 
 
 ```
-#include <iostream>
-#include <vector>
-#include <string>
-
-struct Me {
-    std::string pronouns = "he/him";
-    std::vector<std::string> code = {"Java", "TypeScript", "C++ (only when I suffer)"};
-    std::vector<std::string> backEnd = {"Spring Boot", "WebFlux", "NestJS"};
-    std::vector<std::string> frontEnd = {"React", "Next.js", "Tailwind (and vibes)"};
-    std::vector<std::string> databases = {"PostgreSQL", "Redis (blazingly fast)", "MongoDB (if I have to)"};
-    std::vector<std::string> devOps = {"Docker", "Kubernetes (yes, I cry)", "GitLab CI"};
-    std::vector<std::string> tools = {"IntelliJ (dark mode only)", "Git", "Postman (for yelling at APIs)"};
-    std::string currentFocus = "Writing Java backends that don't randomly die at peak traffic";
-    std::string funFact = "Frontend feels like vacation after debugging memory leaks";
-};
-
-int main() {
-    Me me;
-    std::cout << "Hi, I'm a backend dev who occasionally touches frontend and always blames YAML." << std::endl;
-    std::cout << "Mostly writing " << me.code[0] << ", sometimes regretting with " << me.code[2] << "." << std::endl;
-    std::cout << "Deploying with " << me.devOps[1] << ", praying it scales." << std::endl;
-    std::cout << "Fun fact: " << me.funFact << std::endl;
-    return 0;
+{
+  "name": "BackendWarrior",
+  "class": "Node.js Developer",
+  "level": 27,
+  "skills": {
+    "NestJS": 250,
+    "Prisma": 220,
+    "Postgres": 210,
+    "MongoDB": 180,
+    "JWT": 200,
+    "bcrypt": 190,
+    "Jest": 160,
+    "Debugging at 3AM": 999,
+    "StackOverflow Scroll Mastery": 300,
+    "Startup Survival": 400
+  },
+  "attributes": {
+    "Strength": 200,
+    "Intelligence": 250,
+    "Endurance": 300,
+    "Coffee Consumption": 1000,
+    "Bug Resistance": 75,
+    "Deployment Luck": 5
+  },
+  "equipment": [
+    "Dark Terminal Theme",
+    "Ergonomic Keyboard of Productivity",
+    "Hoodie of Focus (+20 Debug Speed)",
+    "Stack of Sticky Notes (Mostly Useless)"
+  ],
+  "bio": "Forged in the fires of early-stage startups. Specializes in crafting APIs, battling async bugs, and surviving deadlines with caffeine and sarcastic commit messages."
 }
-
 ```
 
 ## Facts
