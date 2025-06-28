@@ -27,41 +27,6 @@ Full-stack software engineer, and I write backend in Node.js with Ts, NestJS, Pr
 ![REST](https://img.shields.io/badge/-REST-005571?style=for-the-badge)
 
 
-```
-{
-  "name": "BackendWarrior",
-  "class": "Node.js Developer",
-  "level": 27,
-  "skills": {
-    "NestJS": 250,
-    "Prisma": 220,
-    "Postgres": 210,
-    "MongoDB": 180,
-    "JWT": 200,
-    "bcrypt": 190,
-    "Jest": 160,
-    "Debugging at 3AM": 999,
-    "StackOverflow Scroll Mastery": 300,
-    "Startup Survival": 400
-  },
-  "attributes": {
-    "Strength": 200,
-    "Intelligence": 250,
-    "Endurance": 300,
-    "Coffee Consumption": 1000,
-    "Bug Resistance": 75,
-    "Deployment Luck": 5
-  },
-  "equipment": [
-    "Dark Terminal Theme",
-    "Ergonomic Keyboard of Productivity",
-    "Hoodie of Focus (+20 Debug Speed)",
-    "Stack of Sticky Notes (Mostly Useless)"
-  ],
-  "bio": "Forged in the fires of early-stage startups. Specializes in crafting APIs, battling async bugs, and surviving deadlines with caffeine and sarcastic commit messages."
-}
-```
-
 ## Facts
 **I’m really into computer science — love figuring out how things work under the hood. Programming’s kinda my thing: it’s fun, frustrating, and super satisfying when stuff finally works. I just enjoy building cool things and solving tricky problems with code**
 
@@ -75,19 +40,8 @@ Full-stack software engineer, and I write backend in Node.js with Ts, NestJS, Pr
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceLink1&theme=solarized_dark)
 
-## 🚀 Проекты
-
-- [Проект 1](https://github.com/IceLink1/my-hamter): Это клоне игры Hammster
-- [Проект 2](https://github.com/IceLink1/real-time-chat): Очень крутой реал тайм чат
-- [Проект 3](https://github.com/IceLink1/paint): Просто среда для рисование
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
-## 📝 My blog
-
-- [History Java](https://dev.to/icelink/history-java-11gf): Java: From Acorns to Awesome (and How the Heck It Actually Works!).
