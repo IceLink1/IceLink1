@@ -40,7 +40,5 @@ Full-stack software engineer, and I write backend in Node.js with Ts, NestJS, Pr
 
 **Right now I’m learning C++ and Node.js. C++ is tough lots of weird syntax and manual stuff, but I kinda like the challenge. It’s teaching me to think more deeply about how things work under the hood. Node.js feels more familiar thanks to JavaScript, but I’m still wrapping my head around async stuff and how everything’s event-driven. Overall, it’s a mix of 'wtf is this' and 'ohhh now I get it' but I’m making steady progress.**
 
-## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceLink1&theme=solarized_dark)
 
 
