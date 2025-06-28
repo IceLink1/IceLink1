@@ -30,8 +30,11 @@ Full-stack software engineer, and I write backend in Node.js with Ts, NestJS, Pr
 ## Facts
 **I’m really into computer science — love figuring out how things work under the hood. Programming’s kinda my thing: it’s fun, frustrating, and super satisfying when stuff finally works. I just enjoy building cool things and solving tricky problems with code**
 
-<p align="center"> <a href="https://icelink.uz"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="sukhrobnuraliev" /></a> </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## Targets
 
@@ -40,8 +43,4 @@ Full-stack software engineer, and I write backend in Node.js with Ts, NestJS, Pr
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceLink1&theme=solarized_dark)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
